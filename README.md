@@ -4,6 +4,6 @@ Yapay zekâ ajanları üzerine bir sunum: yapay zekâ nereden geldi, bir dil mod
 
 Sunumu açmak için `index.html` dosyasını Chrome veya Edge ile açın. Tek dosyadır, internet gerektirmez.
 
-Tuşlar: → ileri · ← geri · F tam ekran · N notlar · O genel bakış
+Tuşlar: → ileri · ← geri · F tam ekran · O genel bakış
 
 Muhammed Enes Çağlıyan
